@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandip Patel
 - 👀 I’m interested in Developing robust Software using Java and Python
-- 🌱 I’m currently learning Advance Python
+- 🌱 I’m currently learning Advance Python & Web3 Solidity
 - 💞️ I’m looking to collaborate on Spring Cloud related software and python software programs
 - 📫 How to reach me [email: sandip1805@gmail.com]
 

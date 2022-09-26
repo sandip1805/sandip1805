@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sandip Patel
+- 👋 Hi, I’m Sandip Patel & love to do open source contribution
 - 👀 I’m interested in Developing robust Software using Java and Python
 - 🌱 I’m currently learning Advance Python & Web3 Solidity
 - 💞️ I’m looking to collaborate on Spring Cloud related software and python software programs
